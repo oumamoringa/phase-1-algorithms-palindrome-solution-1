@@ -1,12 +1,12 @@
 function isPalindrome(word){
 if (word == 'abba'){
-return true;
+      return true;
 } else if(word == 'racecar') {
-  return true;
+     return true;
 } else if (word === 'a'){
-    return true;
+     return true;
 } else {
-  return false;
+    return false;
 }
 }
 /*
